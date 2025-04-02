@@ -1,0 +1,11 @@
+keras==2.13.1
+matplotlib==3.7.4
+numpy==1.24.3
+opencv-python==4.8.1.78
+pandas==2.0.3
+scikit-image==0.21.0
+scikit-learn==1.2.2
+tensorflow==2.13.0
+timm==0.9.12
+rouge
+nltk

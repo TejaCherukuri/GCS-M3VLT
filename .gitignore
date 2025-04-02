@@ -1,0 +1,4 @@
+corpus.txt
+.DS_store
+__pycache__
+logs/

@@ -57,6 +57,10 @@ Multi-modal Attention Maps
 
 ![Multi-modal Attention Maps](figures/AttentionMaps.jpg)
 
+Captions Comparison
+
+![Generated Captions](figures/captions-comparision.jpg)
+
 ### Citation
 If you find GCG useful for your research and applications, please cite using this BibTeX:
 ```bibtex
